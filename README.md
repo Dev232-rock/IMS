@@ -23,3 +23,9 @@ PYTHON 100%
 
 # ABOUT ME
 I'M ER. DEV DUBEY FROM GUJARAT AND CURRENTLY I'M PURSING MY BACHLORE'S B.TEC IN COMPUTER SCIENCE AND ENGINNERING AND IN 3RD YEAR.
+
+# social media handles
+
+LinkedIn: https://www.linkedin.com/in/er-dev-dubey-92488119b
+Instagram: https://www.instagram.com/erdev999/
+Facebook: https://www.facebook.com/erdev.dubey
